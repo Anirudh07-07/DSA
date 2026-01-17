@@ -1,6 +1,6 @@
 # DSA
 <!---LeetCode Topics Start-->
-|just sloving Data Structures  to clear my concept and to know new things 
+just sloving Data Structures  to clear my concept and to know new things 
 # LeetCode Topics
 ## Array
 |  |
