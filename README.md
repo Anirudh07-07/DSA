@@ -1,7 +1,5 @@
 # DSA
 <!---LeetCode Topics Start-->
-just sloving Data Structures  to clear my concept and to know new things 
-and sharing my code from locoal device as well as from leetcode 
 # LeetCode Topics
 ## Array
 |  |
