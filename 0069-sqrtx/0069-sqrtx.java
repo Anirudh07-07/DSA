@@ -1,11 +1,21 @@
 class Solution {
     public int mySqrt(int x) {
+        if (x < 2) return x;
 
-        int i;
-        for (i = 0; (long)i * i <= x; i++) {
-            // loop i ko badhata rahega
+        int left = 1, right = x / 2;
+        int ans = 0;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (mid <= x / mid) {
+                ans = mid;        // mid*mid <= x
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
         }
 
-        return i - 1;  // kyunki last step me i*i x se bada ho jata hai
+        return ans;
     }
 }
