@@ -14,6 +14,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SOLO-DARK-HORSE/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SOLO-DARK-HORSE/DSA/tree/master/0069-sqrtx) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SOLO-DARK-HORSE/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SOLO-DARK-HORSE/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SOLO-DARK-HORSE/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
